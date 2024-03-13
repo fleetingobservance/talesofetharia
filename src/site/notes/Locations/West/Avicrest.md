@@ -19,9 +19,16 @@ The majority of the city's Residential land. Named for the arching main street t
 People of note:
 [[NPCs/King Telipinus Eudoxia\|King Telipinus Eudoxia]]
 [[NPCs/Nordurk Crestmaul\|Nordurk Crestmaul]]
+[[NPCs/Remington Vomzumo\|Remington Vomzumo]]
 
 Places of note:
 [[Locations/West/The Snoring Orc\|The Snoring Orc]]
+[[Locations/West/The Order of the Gauntlet\|The Order of the Gauntlet]]
+[[Locations/West/The Epitoma\|The Epitoma]]
+Vomzumo's Emporium
+Avicrest Brewery
+Steel Appeal - Garon's Blacksmiths
+Earnest Glamour - Tailan's Jewelers
 Seafood and Eat it! - Harolds Stall
 
 Nearby towns:
